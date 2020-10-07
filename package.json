@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@formatjs/intl-datetimeformat": "^2.6.8"
+  }
+}
